@@ -2,9 +2,9 @@
 
 This repo provides 4 demos producer, consumer with avro, protobuf message format.
 
-## Setup
+## Setup:
 
-1. It needs environment varialbles as below:
+1. It needs environment varialbles as below. For VS Code user please `touch .env` under project root:
    ```
    BOOTSTRAP_SERVERS="pkc-xxx.xxxxxx.confluent.cloud:9092"
    SASL_USERNAME="XXXXXXX"
